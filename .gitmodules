@@ -1,0 +1,18 @@
+[submodule "werk"]
+	path = werk
+	url = http://github.com/gdkar/werklab
+[submodule "weblabdeusto"]
+	path = weblabdeusto
+	url = http://github.com/gdkar/weblabdeusto
+[submodule "edx-platform"]
+	path = edx-platform
+	url = https://github.com/gdkar/edx-platform
+[submodule "configuration"]
+	path = configuration
+	url = http://github.com/edx/configuration
+[submodule "crypto"]
+	path = crypto
+	url = https://github.com/openilabs/crypto
+[submodule "ilabproject-code"]
+	path = ilabproject-code
+	url = https://github.com/openilabs/ilabproject-code
