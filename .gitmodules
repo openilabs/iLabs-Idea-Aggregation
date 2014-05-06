@@ -16,3 +16,18 @@
 [submodule "ilabproject-code"]
 	path = ilabproject-code
 	url = https://github.com/openilabs/ilabproject-code
+[submodule "sahara/labshare-sahara-rig-client-commons"]
+	path = sahara/labshare-sahara-rig-client-commons
+	url = git://git.code.sf.net/p/labshare-sahara/rig-client-commons
+[submodule "sahara/labshare-sahara-sahara-wi"]
+	path = sahara/labshare-sahara-sahara-wi
+	url = git://git.code.sf.net/p/labshare-sahara/sahara-wi
+[submodule "sahara/labshare-sahara-rig-client"]
+	path = sahara/labshare-sahara-rig-client
+	url = git://git.code.sf.net/p/labshare-sahara/rig-client
+[submodule "sahara/labshare-sahara-scheduling"]
+	path = sahara/labshare-sahara-scheduling
+	url = git://git.code.sf.net/p/labshare-sahara/scheduling-server
+[submodule "lms4labs"]
+	path = lms4labs
+	url = http://github.com/gateway4labs/lms4labs
