@@ -2,10 +2,10 @@
 	path = weblabdeusto
 	url = http://github.com/gdkar/weblabdeusto
 [submodule "edx-platform"]
-	path = edx-platform
+	path = edx/edx-platform
 	url = https://github.com/gdkar/edx-platform
 [submodule "configuration"]
-	path = configuration
+	path = edx/configuration
 	url = http://github.com/edx/configuration
 [submodule "ilabproject-code"]
 	path = ilabproject-code
