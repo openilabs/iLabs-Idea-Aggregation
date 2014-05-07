@@ -7,9 +7,6 @@
 [submodule "configuration"]
 	path = configuration
 	url = http://github.com/edx/configuration
-[submodule "crypto"]
-	path = crypto
-	url = https://github.com/openilabs/crypto
 [submodule "ilabproject-code"]
 	path = ilabproject-code
 	url = https://github.com/openilabs/ilabproject-code
